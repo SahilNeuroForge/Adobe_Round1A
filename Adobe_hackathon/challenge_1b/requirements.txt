@@ -1,0 +1,5 @@
+numpy<2
+sentence-transformers==2.2.2
+huggingface-hub==0.10.1
+torch==1.12.1+cpu
+PyMuPDF==1.22.3

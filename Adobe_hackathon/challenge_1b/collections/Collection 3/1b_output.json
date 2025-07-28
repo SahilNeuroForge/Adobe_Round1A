@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "timestamp": "2025-07-27T20:57:44.792813"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 16,
+      "section_title": "• ",
+      "importance_rank": 1
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• \nServe immediately. \n \n \n \nCottage Cheese and Veggie Bowl \nIngredients: \n• \n1 cup cottage cheese \n• \n1/4 cup diced cucumber \n• \n1/4 cup cherry tomatoes, halved \n• \n1/4 cup diced bell pepper \n• \nSalt and pepper to taste \nInstructions: \n• \nIn a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper.",
+      "page_number": 16
+    }
+  ]
+}
